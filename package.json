@@ -1,0 +1,15 @@
+{
+  "name": "ag-grid-example",
+  "dependencies": {
+    "@angular/core": "20.0.0",
+    "@angular/common": "20.0.0",
+    "@angular/forms": "20.0.0",
+    "@angular/platform-browser": "20.0.0",
+    "ag-grid-angular": "35.0.0",
+    "ag-grid-community": "35.0.0",
+    "ag-grid-enterprise": "35.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22"
+  }
+}
